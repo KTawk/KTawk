@@ -1,4 +1,4 @@
-Hello 👋
+## Hello 👋 
 
 My name is Kairly and I'm a 2nd-year Software Engineering (CO-OP) student with an Engineering Management and Entrepreneurship Option at the University of Ottawa.
 
