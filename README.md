@@ -1,6 +1,6 @@
 ## Hello 👋 
 
-My name is Kairly and I'm a 2nd-year Software Engineering (CO-OP) student with an Engineering Management and Entrepreneurship Option at the University of Ottawa.
+My name is Kairly and I'm a fourth year Software Engineering (CO-OP) student with an Engineering Management and Entrepreneurship Option at the University of Ottawa.
 
 
 - 👀 I’m interested in software engineering, engineering management, and continuous self-improvement.
@@ -9,7 +9,7 @@ My name is Kairly and I'm a 2nd-year Software Engineering (CO-OP) student with a
   
 - 💼 I’m the Vice President of Finance at Hack the Hill, overseeing financial operations to support our hackathon events.
   
-- 🤝 I’m looking for Fall 2025 internship opportunities.
+- 🤝 I’m looking for Summer 2027 internship opportunities.
   
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kairly-t-892983235/) • [Email](mailto:kairly.tauk@outlook.com)
   
